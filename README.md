@@ -192,3 +192,7 @@ project/
 - Real-time weather API integration
 - Live hospital data integration
 - Advanced district heatmap
+
+
+<img width="1919" height="980" alt="Screenshot 2026-04-22 205148" src="https://github.com/user-attachments/assets/5238c3c3-ce27-4b87-954e-9173f523172e" />
+<img width="1917" height="975" alt="Screenshot 2026-04-22 204739" src="https://github.com/user-attachments/assets/4dac288b-5b48-478a-b458-4ed00ecfb8b7" />
